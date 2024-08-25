@@ -2,7 +2,7 @@
 
 # **Indian Startup Ecosystem Analysis**
 
-Welcome to the GitHub repository for the project *"Exploring the Thriving Indian Startup Ecosystem: A Data-Driven Analysis."* This repository contains the datasets, code, and visualizations used in the analysis of India's dynamic startup landscape.
+Welcome to the GitHub repository for the project *"Billion-Dollar Dreams: India's Startup Saga."* This repository contains the datasets, code, and visualizations used in the analysis of India's dynamic startup landscape.
 
 ## **Table of Contents**
 
