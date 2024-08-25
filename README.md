@@ -59,7 +59,7 @@ This analysis provides key insights into the Indian startup ecosystem, including
 ## **Contact**
 
 If you have any questions or want to discuss this project further, feel free to reach out:
-- **Name:** [Nirmal Sai Swaroop J]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/))
+- **Name:** [Nirmal Sai Swaroop J](https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/)
 - **Email:** your.email@example.com
 - **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
 
