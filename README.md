@@ -32,7 +32,7 @@ Please refer to the `datasets/` folder for the raw data files used in the analys
 
 ## **Visualizations**
 
-Visual representations play a crucial role in understanding data-driven insights. The `visualizations/` folder contains all the charts, graphs, and maps used in the project. These include:
+Visual representations play a crucial role in understanding data-driven insights. The [visualizations](./visualizations) folder contains all the charts, graphs, and maps used in the project. These include:
 
 - **Startup Distribution Map:** A geographical visualization of startup concentrations across major Indian cities.
 - **Valuation Growth Graph:** A line chart showing the increase in startup valuations over time.
