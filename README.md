@@ -37,6 +37,7 @@ Visual representations play a crucial role in understanding data-driven insights
 - **Startup Distribution Map:** A geographical visualization of startup concentrations across major Indian cities.
 - **Valuation Growth Graph:** A line chart showing the increase in startup valuations over time.
 - **Sectoral Dominance Chart:** A breakdown of startups by sector, highlighting the leading industries.
+Please refer to the `visualizations/` folder for accessing the charts that are the outputs in the analysis.
 
 ## **Technologies Used**
 
