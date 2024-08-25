@@ -22,6 +22,9 @@ This project aims to analyze the Indian startup ecosystem by exploring trends, s
 
 India has emerged as a global startup hub, with rapid growth driven by technology, innovation, and government initiatives. This project provides a comprehensive analysis of the ecosystem, covering aspects such as geographical distribution, valuation trends, sectoral performance, and the role of funding.
 
+For a more detailed discussion and narrative on the findings of this analysis, please read the accompanying [Medium article](https://medium.com/@nirmalsai22/billion-dollar-dreams-indias-startup-saga-1a1f53fea5dc). This article offers a comprehensive overview of the insights derived from the data.
+
+
 ## **Dataset**
 
 The datasets used in this project are available in the [datasets](./datasets) folder. These include:
